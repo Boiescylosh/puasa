@@ -6,6 +6,6 @@ $ cd puasa
 
 $ ls
 
-$ puasa.py
+$ python puasa.py
 
 Copy teksnya sesudah ikon $ lalu paste tiap teksnya di TERMUX
